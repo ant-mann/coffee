@@ -36,7 +36,7 @@ This program creates a virtual coffee machine that manages resources (water, mil
 4.  Run the script:
 
     ```bash
-    python main.py
+    python coffee_machine.py
     ```
 
 ## 📋 Usage Example
